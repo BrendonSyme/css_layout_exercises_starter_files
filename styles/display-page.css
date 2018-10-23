@@ -1,0 +1,50 @@
+main {
+    font-size: 0;
+}
+
+.container {
+    margin-top: 80px;
+
+    width: 800px;
+    height: 500px;
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+.top {
+    display: inline-block;
+    height: 200px;
+    width: 50%;
+
+    border: black solid 1px;
+}
+
+.top1 {
+    background-color: green;
+}
+.top2 {
+    background-color: blue;
+}
+
+.bot {
+    display: inline-block;
+    height: 300px;
+    width: 33.33333333333333%;
+
+    border: black solid 1px;
+}
+
+.bot1 {
+    background-color: grey;
+}
+
+.bot2 {
+    background-color: black;
+}
+
+.bot3 {
+    background-color: orange;
+}
